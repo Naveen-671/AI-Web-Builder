@@ -157,14 +157,22 @@ Before you begin, ensure you have the following installed:
 
 1. **Sign up** or **Sign in** using the authentication page
 2. **Create a new project** from the home dashboard
+   <img width="1906" height="1079" alt="Screenshot 2025-12-14 210751" src="https://github.com/user-attachments/assets/5574c0ca-0f28-4ddd-a11c-113709e40fdb" />
+
 3. **Enter a prompt** describing what you want to build:
    - "Create a todo list app with React"
    - "Build a landing page for a coffee shop"
    - "Make a calculator with a modern UI"
+     <img width="1919" height="1075" alt="Screenshot 2025-12-14 211323" src="https://github.com/user-attachments/assets/4f9be18b-40f9-480b-ade0-ec382584f9ff" />
+
 4. **Select an AI model** from the dropdown (GPT-4, Gemini, etc.)
-5. **Send your message** and watch as the AI generates your code
-6. **View the result** in the live preview panel
-7. **Iterate and refine** by sending follow-up messages
+6. **Send your message** and watch as the AI generates your code
+  <img width="1919" height="1079" alt="Screenshot 2025-12-14 212149" src="https://github.com/user-attachments/assets/e1981058-f133-4d92-8132-b9daff30b477" />
+
+8. **View the result** in the live preview panel
+   <img width="1919" height="1079" alt="Screenshot 2025-12-16 092207" src="https://github.com/user-attachments/assets/b410dce0-586b-4b12-94fd-9380edf4f5a1" />
+
+10. **Iterate and refine** by sending follow-up messages
 
 ### Using the HTML Builder
 
