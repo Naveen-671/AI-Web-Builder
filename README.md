@@ -1,4 +1,4 @@
-# Vibe 🎨✨
+# AI Website Builder 🎨✨
 
 > **Build applications and websites through natural conversation with AI**
 
